@@ -13,8 +13,8 @@ Entity has things called headers that have a couple uses, it can detail permissi
 
 eg.
  ```
+ use: js
  export: shell
- use: js.entity
  
  js(){
      console.log(`Node.js ${process.version}`)
